@@ -1,4 +1,4 @@
-# auction_platform_frontend
+# auction_platform
 # Client Folder  
 📌 Extract `client.zip` before running the project.  
 🚀 Run `npm install` to install dependencies. 
